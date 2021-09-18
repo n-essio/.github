@@ -12,7 +12,7 @@ endif::[]
 
 ++++
 <p align="center">
-  <img src="Schermata 2021-09-18 alle 06.28.58.png">
+  <img src="https://raw.githubusercontent.com/n-essio/.github/main/profile/Schermata%202021-09-18%20alle%2006.28.58.png">
 </p>
 ++++
 
