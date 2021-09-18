@@ -1,11 +1,11 @@
 
 # N-ESS - Non é il solito software!
 
-++++
+<center>
 <p align="center">
   <img src="https://raw.githubusercontent.com/n-essio/.github/main/profile/Schermata%202021-09-18%20alle%2006.28.58.png">
 </p>
-++++
+</center>
 
 Benvenuti! This is the N-ESS GitHub HOUSE! 
 
