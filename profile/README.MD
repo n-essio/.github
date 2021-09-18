@@ -11,6 +11,7 @@ View our [repositories](https://github.com/orgs/n-essio/repositories)
 
 # Commenti 
 <!-- BLOG-POST-LIST:START -->
+- [cronjon ultima verifica](https://github.com/n-essio/.github/issues/4)
 - [Vediamo se funziona il cron!](https://github.com/n-essio/.github/issues/3)
 - [grande organizzazione!](https://github.com/n-essio/.github/issues/2)
 - [A lot of repositories!](https://github.com/n-essio/.github/issues/1)
