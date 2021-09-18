@@ -18,4 +18,4 @@ endif::[]
 
 Benvenuti! This is the N-ESS GitHub HOUSE! 
 
-Our repository https://github.com/orgs/n-essio/repositories [repositories] 
+Our repository https://github.com/orgs/n-essio/repositories[repositories] 
