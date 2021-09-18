@@ -6,10 +6,10 @@
 
 Benvenuti! This is the N-ESS GitHub HOUSE! 
 
-Our (repository)[https://github.com/orgs/n-essio/repositories] 
+Our [repository](https://github.com/orgs/n-essio/repositories)
 
 
-# Commenti
+# Commenti [aggiungi commento](https://github.com/n-essio/.github/issues/new)
 <!-- BLOG-POST-LIST:START -->
 - [asdasd](https://github.com/n-essio/.github/issues/1)
 <!-- BLOG-POST-LIST:END -->
