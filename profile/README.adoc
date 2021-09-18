@@ -12,7 +12,7 @@ endif::[]
 
 ++++
 <p align="center">
-  <img src="https://n-ess.io/ness/img/logo.png">
+  <img src="Schermata 2021-09-18 alle 06.28.58.png">
 </p>
 ++++
 
