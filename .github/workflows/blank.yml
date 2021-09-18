@@ -15,4 +15,4 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@master
         with:
           feed_list: "http://gh-feed.imsun.net/n-essio/.github/issues"
-          readme_path: ./profile/README.adoc
+          readme_path: ./profile/README.MD
