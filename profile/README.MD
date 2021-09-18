@@ -11,7 +11,7 @@ View our [repositories](https://github.com/orgs/n-essio/repositories)
 
 # Commenti 
 <!-- BLOG-POST-LIST:START -->
-- [asdasd](https://github.com/n-essio/.github/issues/2)
-- [asdasd](https://github.com/n-essio/.github/issues/1)
+- [grande organizzazione!](https://github.com/n-essio/.github/issues/2)
+- [A lot of repositories!](https://github.com/n-essio/.github/issues/1)
 <!-- BLOG-POST-LIST:END -->
 [aggiungi commento](https://github.com/n-essio/.github/issues/new)
