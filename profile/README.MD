@@ -17,3 +17,38 @@ View our [repositories](https://github.com/orgs/n-essio/repositories)
 - [A lot of repositories!](https://github.com/n-essio/.github/issues/1)
 <!-- BLOG-POST-LIST:END -->
 [aggiungi commento](https://github.com/n-essio/.github/issues/new)
+
+<details><summary><strong>Click to view example definition</strong></summary>
+<p>
+
+<table>
+<tr>
+    <th>JSON</th>
+    <th>YAML</th>
+</tr>
+<tr>
+<td valign="top">
+
+```json
+{
+    "stateDataFilter": {
+      "input": "${ .orders }",
+      "output": "${ .provisionedOrders }"
+    }
+}
+```
+
+</td>
+<td valign="top">
+
+```yaml
+stateDataFilter:
+  input: "${ .orders }"
+  output: "${ .provisionedOrders }"
+```
+
+</td>
+</tr>
+</table>
+
+</details>
